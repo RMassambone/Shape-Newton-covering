@@ -1,5 +1,6 @@
 # Shape-Newton-covering
-Source codes related to the paper: E. G. Birgin, A. Laurain, R. Massambone, and A. G. Santana, A Shape-Newton approach to the problem of covering with identical balls, published in SIAM Journal on Scientific Computing.
+Source codes related to the paper: E. G. Birgin, A. Laurain, R. Massambone, and A. G. Santana, A Shape-Newton approach to the problem of covering with identical balls, published in SIAM Journal on Scientific Computing, [Paper]([https://www.google.com](https://epubs.siam.org/doi/10.1137/21M1426067)).
+
 
 All codes needed to reproduce the numerical experiments in the paper
 are included. The third party codes Algencan 4.0.0 and GEOMPACK are
